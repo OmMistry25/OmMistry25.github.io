@@ -118,3 +118,9 @@ Combining the concepts from molecular biology, computational approaches, and adv
 ### Conclusion
 
 The journey from understanding basic molecular biology to exploring advanced topics like synthetic biology and protein-based computing showcases the tremendous progress made in the life sciences and engineering. The integration of computational tools and biological research has not only deepened our understanding of life's fundamental mechanisms but also opened up new avenues for innovation in medicine, environmental science, and biotechnology. As we continue to push the boundaries of these interdisciplinary fields, the potential for positive impact on human health and the environment grows exponentially.
+
+### Sources:
+
+https://www.frontiersin.org/articles/10.3389/fbioe.2022.788300/full 
+https://engineering.princeton.edu/news/equad-magazine/bioengineering 
+https://people.cs.vt.edu/naren/papers/ComputingwithProteins2009.pdf 
