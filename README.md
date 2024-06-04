@@ -1,4 +1,4 @@
-## Welcome to Curate
+## Welcome to [Curate](https://ommistry25.github.io/)
 
 Discover a wealth of knowledge as we explore various industries from the ground up, providing you with the essential insights needed for success.
 
