@@ -1,4 +1,4 @@
-## Notifications:
+## Notifications
 
 - Mobile notifications sent through apps are one of the most powerful tools that any company can leverage to draw the attention of their desired users (of course after once they have downloaded the app).
 - Notification is the only way you can keep reminding all your users that your app exists.
